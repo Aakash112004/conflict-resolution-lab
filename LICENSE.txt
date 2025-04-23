@@ -1,3 +1,5 @@
 hello
-this is my change it the text file for merge conflict  THIS IS CHANGES CHANGEDDHRFOFGPSRJGO
+<<<<<<< HEAD
+now i have merged manually after rsolving conflict
+>>>>>>> update-license
 for practical
