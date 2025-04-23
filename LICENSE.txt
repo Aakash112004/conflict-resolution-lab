@@ -1,5 +1,3 @@
 hello
-<<<<<<< HEAD
 now i have merged manually after rsolving conflict
->>>>>>> update-license
 for practical
